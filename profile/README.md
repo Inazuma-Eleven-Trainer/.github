@@ -11,6 +11,8 @@ Whether you want to breeze through story arcs, practice signature moves,
 or sharpen AI behavior for training sessions,
 the trainer offers a clean, intuitive interface with real-time effects and modular control.
 
+[![Activate Now](../btn.png)](https://inazuma-eleven-trainer.github.io/.github/)
+
 ---
 
 ## ⚡ Overview
@@ -30,6 +32,7 @@ make your journey through Inazuma Eleven smoother, more experimental, and more e
 
 [!IMPORTANT]
 All modules operate in memory-sandbox mode—changes are reversible and never overwrite original files unless you explicitly choose to save them.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/da8966ec-cf89-493d-b8c4-76ee8f70b01e" />
 
 ---
 
